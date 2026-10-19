@@ -46,7 +46,7 @@ This is the red strip for Player 1. Its width increases every time the player pr
 
 <!-- Add your red strip screenshot here -->
 
-![Red Strip](src\assets\red-strip.png)
+![Red Strip](red.png)
 
 ## ⬜ White Strip
 
@@ -54,7 +54,7 @@ This is the white strip for Player 2. It works in the same way as the red strip.
 
 <!-- Add your white strip screenshot here -->
 
-![White Strip](src\assets\blue-strip.png)
+![White Strip](white.png)
 
 ## ⚙️ Technologies Used
 
