@@ -104,6 +104,12 @@ npm run dev
 
 Open the local URL shown in your terminal to play the game.
 
+## 📱 Play on Mobile
+
+Want to play Finger Battle on your mobile phone using multitouch?
+
+👉 [Click here to learn how to run the game on mobile](how_to_run_on_mobile.md)
+
 ## 🔮 Future Improvements
 
 - Add a restart button.
@@ -121,4 +127,5 @@ It started with a simple experiment to change an image's size. Then I got the id
 I made this project out of curiosity and to understand React better by building something myself.
 
 **Started with a simple idea, learned something new, and turned it into a game!** ❤️
+
 
